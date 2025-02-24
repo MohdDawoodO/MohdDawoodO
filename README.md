@@ -6,6 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Once time passes, it cannot return.
 
+profile views: ![Profile views](https://komarev.com/ghpvc/?username=serious-17)
+
 <!---
 serious-17/serious-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
