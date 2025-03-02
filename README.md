@@ -2,7 +2,7 @@
 - 👀 I’m interested in lots of fun stuff (like travelling, building cool projects, etc)
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate with other indie developers
-- 📫 You can reach me at serious17org@gmail.com and serious_17O@proton.me
+- 📫 You can reach me at serious17org@gmail.com and serious_17O@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Once time passes, it cannot return.
 
