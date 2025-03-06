@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serious-17
+- 👋 Hi, I’m @MohdDawoodO
 - 👀 I’m interested in lots of fun stuff (like travelling, building cool projects, etc)
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate with other indie developers
