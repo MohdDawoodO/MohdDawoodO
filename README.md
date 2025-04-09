@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Time never rewinds—make every moment count!
 
 - If you are willing for a professional dev, I ain't one but you can see Jemo's work.
-- He is a very cool developer, his sense of UI is very great.
+- He is a very cool developer, his sense of UI is very good.
 - Check his portfolio : https://james102.netlify.app/ 
 
 <!---
