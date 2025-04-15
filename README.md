@@ -15,7 +15,7 @@
 
 # Github Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohdDawoodO&theme=dark)](https://git.io/streak-stats)
+![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohdDawoodO&theme=dark)](https://git.io/streak-stats)
 
 <!---
 MohdDawoodO/MohdDawoodO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
