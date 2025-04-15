@@ -1,3 +1,5 @@
+# About Me
+
 - 👋 Hi, I’m @MohdDawoodO
 - 💻 Frontend developer passionate about crafting sleek, responsive, and user-friendly web experiences.
 - 💪 Sklls include: HTML | CSS | Javascript | Typescript | React | Tailwind
@@ -6,8 +8,14 @@
 - ⚡ Fun fact: Time never rewinds—make every moment count!
 
 
+# Github Stats
+
 ![https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical)
 
+
+# Most Used Languages
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=MohdDawoodO&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdDawoodO&layout=compact&theme=radical)
 
 <!---
 MohdDawoodO/MohdDawoodO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
