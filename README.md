@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Time never rewinds—make every moment count!
 
 
-[https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical)
+![https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical)
 
 
 <!---
