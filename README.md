@@ -5,9 +5,9 @@
 - 😄 Gender: male
 - ⚡ Fun fact: Time never rewinds—make every moment count!
 
-- If you are looking for a professional dev, I ain't one but you can see Jemo's work.
-He is a very cool developer, his sense of UI is very good.
-Check his portfolio : https://james102.netlify.app/ 
+
+[https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical)
+
 
 <!---
 MohdDawoodO/MohdDawoodO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
