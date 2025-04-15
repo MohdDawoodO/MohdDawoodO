@@ -8,14 +8,14 @@
 - ⚡ Fun fact: Time never rewinds—make every moment count!
 
 
-# Github Stats
-
-![https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=MohdDawoodO&show_icons=true&theme=radical)
-
-
 # Most Used Languages
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=MohdDawoodO&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdDawoodO&layout=compact&theme=radical)
+
+
+# Github Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohdDawoodO&theme=dark)](https://git.io/streak-stats)
 
 <!---
 MohdDawoodO/MohdDawoodO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
